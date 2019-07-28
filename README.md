@@ -7,3 +7,5 @@ You can find the individual printable notes in the notes folder. For all the not
 Currently, I made it for my 61 key keyboard but I can make more if there's demand ;) just give me a shout.
 
 Enjoy!
+
+![Alt text](printable-piano-notes.png?raw=true "Printable Piano Notes")
