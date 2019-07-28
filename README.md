@@ -8,4 +8,4 @@ Currently, I made it for my 61 key keyboard but I can make more if there's deman
 
 Enjoy!
 
-![Alt text](printable-piano-notes.png?raw=true "Printable Piano Notes")
+![Alt text](printable-piano-notes.jpg?raw=true "Printable Piano Notes")
