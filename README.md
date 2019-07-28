@@ -4,4 +4,6 @@ I'm learning piano and couldn't find any notes I could print, cut and stick to m
 
 You can find the individual printable notes in the notes folder. For all the notes ready to be printed, use the printable-piano-notes.png file.
 
+Currently, I made it for my 61 key keyboard but I can make more if there's demand ;) just give me a shout.
+
 Enjoy!
